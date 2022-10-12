@@ -50,6 +50,8 @@
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushyadav-rjit&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit)](https://github.com/anuraghazra/github-readme-stats&theme=radical)
+
 ## 🔥 Streak stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&border_radius=)](https://git.io/streak-stats)
