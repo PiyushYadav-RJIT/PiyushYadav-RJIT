@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+<h3 align="center">A student,developer,learner from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-rjit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-rjit" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyushyadav-rjit" alt="piyushyadav-rjit" /></a> </p>
