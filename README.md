@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<h3 align="center">A student,developer,learner from India</h3>
+<h3 align="center" Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" >A student,developer,learner from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-rjit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-rjit" /> </p>
 
