@@ -22,3 +22,6 @@
 
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushyadav-rjit&show_icons=true&theme=dracula&hide=stars,issues)
+
+
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushyadav-rji&show_icons=true&theme=radical)
