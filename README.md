@@ -59,7 +59,7 @@
 ## 📊 Github stats
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
+<details open> 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=piyushyadav-rjit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
@@ -69,7 +69,7 @@
 </details>
 
 
-<details>
+<details open>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 
@@ -79,23 +79,3 @@
 [![Piyush Yadav's github activity graph](https://activity-graph.herokuapp.com/graph?username=piyushyadav-rjit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" )](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-   ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushyadav-rjit&show_icons=true&theme=radical)
-   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
-
-
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-
-
-
-[![Piyush Yadav's github activity graph](https://activity-graph.herokuapp.com/graph?username=piyushyadav-rjit&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" )](https://github.com/ashutosh00710/github-readme-activity-graph)
