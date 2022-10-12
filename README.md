@@ -54,3 +54,31 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&border_radius=)](https://git.io/streak-stats)
 
+## 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=DenverCoder1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+</details>
+
+
+<details>
+  <summary>⚡ Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+
+1. 🎉 Merged PR [#48](https://github.com/piyushyadav-rjit/table2ascii/pull/48) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+2. 💪 Opened PR [#48](https://github.com/piyushyadav-rjit/table2ascii/pull/48) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+3. 🎉 Merged PR [#47](https://github.com/piyushyadav-rjit/table2ascii/pull/47) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+4. 💪 Opened PR [#47](https://github.com/piyushyadav-rjit/table2ascii/pull/47) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+5. 🎉 Merged PR [#46](https://github.com/piyushyadav-rjit/table2ascii/pull/46) in [DenverCoder1/table2ascii](https://github.com/DenverCoder1/table2ascii)
+    <!--END_SECTION:activity-->
+    </details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
