@@ -19,4 +19,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav-rjit&" alt="piyushyadav-rjit" /></p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit)](https://github.com/anuraghazra/github-readme-stats)
+
+![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=piyushyadav-rjit&show_icons=true&theme=dracula&hide=stars,issues)
