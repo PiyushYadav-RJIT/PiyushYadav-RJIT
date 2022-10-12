@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&vCenter=true&width=440&lines=Student%2C+Developer%2C+Learner)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&vCenter=true&width=440&lines=Student%2C+Developer%2C+Learner" alt="Typing SVG" /></a>
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyushyadav-rjit&label=Profile%20views&color=0e75b6&style=flat" alt="piyushyadav-rjit" /> </p>
