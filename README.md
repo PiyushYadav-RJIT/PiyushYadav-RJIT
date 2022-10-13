@@ -62,8 +62,8 @@
 <details open > 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&background=0D1117&stroke=0000&hide=Jupyter%20Notebook" height="192px""/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=dark&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&background=0D1117&stroke=0000&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&background=0D1117&stroke=0000&hide=Jupyter%20Notebook" height="192px""/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&background=0D1117&stroke=0000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
