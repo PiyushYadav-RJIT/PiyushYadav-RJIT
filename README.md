@@ -52,6 +52,14 @@
 ## 🔥 Streak stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&border_radius=)](https://git.io/streak-stats)
+  
+  
+<h2 align="center">## 🔥 Streak stats</h2>
+<p align="center">
+  <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&background=0D1117&stroke=0000"/>
+  </a>
+ </p> 
 
 ## 📊 Github stats
 
