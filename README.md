@@ -47,7 +47,7 @@
 
 
 
-
+<center>
 
 ## 🔥 Streak stats
 
