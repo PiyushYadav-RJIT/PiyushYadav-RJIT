@@ -54,7 +54,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&border_radius=)](https://git.io/streak-stats)
   
   
-<h2 align="center">## 🔥 Streak stats</h2>
+<h2 align="center">🔥 Streak stats</h2>
 <p align="center">
   <a href="https://github.com/Iamtripathisatyam/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav-rjit&theme=monokai-metallian&hide_border=true&background=0D1117&stroke=0000"/>
@@ -67,8 +67,8 @@
 <details open > 
   <summary>💻 GitHub Profile Stats</summary>
   <br/>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=piyushyadav-rjit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=piyushyadav-rjit&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&&background=0D1117&stroke=0000&icon_color=F8D866" height="192px"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Piyush Yadav1's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushyadav-rjit&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&&background=0D1117&stroke=0000&hide=Jupyter%20Notebook" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
