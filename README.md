@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/piyush-yadav-517474228"><img width="32px" alt="Linkedin" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
+  <a href="https://www.linkedin.com/in/piyush-yadav-517474228"><img width="32px" alt="Linkedin" title="DenverCoder1 Dev.to" src="https://i.imgur.com/bAYObfM.png"></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="mailto:piyushyadavaugust3@gmail.com"><img width="32px" alt="Ko-fi" title="Email" src="https://i.imgur.com/KxTgdUK.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
